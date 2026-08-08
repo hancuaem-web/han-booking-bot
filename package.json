@@ -1,7 +1,7 @@
 {
   "name": "booking-bot",
   "version": "1.0.0",
-  "description": "Discord Bot",
+  "description": "Discord Booking Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
